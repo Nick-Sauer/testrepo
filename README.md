@@ -1,1 +1,1 @@
-# testrepo
+# The goal of this project is develop a machine learning model that determines whether or not the Spacex Falcon 9 first stage will land successfully. If we can determine if the first stage will land, we can determine the cost of a launch, and reuse the rocket. 
